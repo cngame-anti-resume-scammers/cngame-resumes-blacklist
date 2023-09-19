@@ -1,0 +1,1 @@
+# cngame-resume-blacklist
