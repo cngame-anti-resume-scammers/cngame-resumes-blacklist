@@ -1,1 +1,1 @@
-# cngame-resume-blacklist
+# cngame-resumes-blacklist
